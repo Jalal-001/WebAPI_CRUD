@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\bin\Debug\net6.0\CrudApi.Data.deps.json
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\bin\Debug\net6.0\CrudApi.Data.runtimeconfig.json
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\bin\Debug\net6.0\CrudApi.Data.dll
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\bin\Debug\net6.0\CrudApi.Data.pdb
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\bin\Debug\net6.0\CrudApi.Entity.dll
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\bin\Debug\net6.0\CrudApi.Entity.pdb
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\obj\Debug\net6.0\CrudApi.Data.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\obj\Debug\net6.0\CrudApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\obj\Debug\net6.0\CrudApi.Data.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\obj\Debug\net6.0\CrudApi.Data.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\obj\Debug\net6.0\CrudApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\obj\Debug\net6.0\CrudApi.Data.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\obj\Debug\net6.0\CrudApi.Data.dll
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\obj\Debug\net6.0\refint\CrudApi.Data.dll
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\obj\Debug\net6.0\CrudApi.Data.pdb
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\obj\Debug\net6.0\CrudApi.Data.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Data\obj\Debug\net6.0\ref\CrudApi.Data.dll

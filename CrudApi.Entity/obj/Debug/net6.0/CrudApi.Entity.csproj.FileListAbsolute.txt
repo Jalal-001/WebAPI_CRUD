@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Entity\bin\Debug\net6.0\CrudApi.Entity.deps.json
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Entity\bin\Debug\net6.0\CrudApi.Entity.dll
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Entity\bin\Debug\net6.0\CrudApi.Entity.pdb
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Entity\obj\Debug\net6.0\CrudApi.Entity.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Entity\obj\Debug\net6.0\CrudApi.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Entity\obj\Debug\net6.0\CrudApi.Entity.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Entity\obj\Debug\net6.0\CrudApi.Entity.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Entity\obj\Debug\net6.0\CrudApi.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Entity\obj\Debug\net6.0\CrudApi.Entity.dll
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Entity\obj\Debug\net6.0\refint\CrudApi.Entity.dll
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Entity\obj\Debug\net6.0\CrudApi.Entity.pdb
+C:\Users\Lenovo\Desktop\CrudApi\CrudApi\CrudApi.Entity\obj\Debug\net6.0\ref\CrudApi.Entity.dll

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CrudApi.API</name>
+    </assembly>
+    <members>
+        <member name="M:CrudApi.API.Controllers.HotelController.Get">
+            <summary>
+            Get All Data
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
